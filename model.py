@@ -1,3 +1,7 @@
+"""
+This module implements functionalities of the sudoko game
+"""
+
 import random
 
 class Player :
